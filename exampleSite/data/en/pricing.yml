@@ -9,7 +9,6 @@ pricing:
     services:
     - Acesso a 50% dos cursos
     - "-\n"
-    - "-\n"
     button:
       label: Signup
       link: "#"
