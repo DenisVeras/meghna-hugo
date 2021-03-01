@@ -11,10 +11,8 @@ contact:
     info: São Paulo, Sp - Brasil
   - icon: ti-mobile
     info: 'Phone: +55 (11) 99999-9999'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: maisblack@accenture.com'
   contact_form:
     enable: true
     form_action: "#"
