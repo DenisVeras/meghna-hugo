@@ -5,12 +5,12 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "+Black"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content/portuguese"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "en-us"
+languageCode = "pt-br"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
