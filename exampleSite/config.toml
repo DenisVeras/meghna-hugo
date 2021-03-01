@@ -11,7 +11,7 @@ contentDir = "content/portuguese"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "pt-br"
-languageName = "En"
+languageName = "BR"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
